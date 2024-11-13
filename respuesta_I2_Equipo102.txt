@@ -1,0 +1,7 @@
+Malena Rodrigue Barrio
+Fabrizio Blass Fernandez
+Lautaro Distefano
+a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+-
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+-
